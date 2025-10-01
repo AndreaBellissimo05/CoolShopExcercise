@@ -17,7 +17,7 @@ In order to run the program from the terminal, you first need to move into the p
 
 Example:
 
-cd "C:\Users\Andrea.Bellissimo\Desktop\CoolShop\CoolShop"
+cd C:\Users\user\Desktop\CoolShop\CoolShop
 
 dotnet run
 
