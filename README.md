@@ -9,6 +9,7 @@ In order to run the program from the terminal, you first need to move into the p
 Example:
 
 cd "C:\Users\Andrea.Bellissimo\Desktop\CoolShop\CoolShop"
+
 dotnet run
 
 This ensures that the program finds the required files (such as orderList.csv) in the correct location.
