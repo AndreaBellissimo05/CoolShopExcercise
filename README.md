@@ -8,6 +8,8 @@ This is the implementation of the exercise given to me by CoolShop.
 The first thing to do is to **clone the repository** to your local machine.  
 You can choose any folder where you want to download the project.
 
+example:
+git clone https://github.com/AndreaBellissimo05/CoolShopExcercise.git
 
 ## How to run the program
 
